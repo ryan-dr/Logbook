@@ -1,0 +1,9 @@
+
+
+DESCARGAR EL:
+- GEANY
+- MIRAMOS EL TEMA 6 
+Geany es un editor de texto pequeño y ligero de interfaz gráfica de usuario y bibliotecas 
+gráficas GTK, Incluye características básica de IDE. 
+Está diseñado para tener tiempos de carga reducidos, con poca dependencia en paquetes o 
+bibliotecas externas en Linux.
